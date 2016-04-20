@@ -4,7 +4,5 @@
 
 ```
 > export URL="<the ticket url>"
-> export EMAIL="<your email address>"
-> wget $URL -O base
 > ./robot
 ```
